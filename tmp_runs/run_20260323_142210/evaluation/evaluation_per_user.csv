@@ -1,0 +1,3 @@
+user_id,num_test_items,num_relevant_test_items,HitRate@5,NDCG@5,HitRate@10,NDCG@10,HitRate@20,NDCG@20
+1,1,1,1.0,1.0,1.0,1.0,1.0,1.0
+2,1,0,0.0,0.0,0.0,0.0,0.0,0.0

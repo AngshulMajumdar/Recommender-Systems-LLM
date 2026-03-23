@@ -1,0 +1,4 @@
+item_id,title,release_date,video_release_date,imdb_url,unknown,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western,genres
+1,Star Wars (1977),01-Jan-1977,,http://example.com/1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"['Action', 'Adventure', 'Sci-Fi']"
+2,Emma (1996),01-Jan-1996,,http://example.com/2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,"['Comedy', 'Drama', 'Romance']"
+3,The Empire Strikes Back (1980),01-Jan-1980,,http://example.com/3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"['Action', 'Adventure', 'Sci-Fi']"

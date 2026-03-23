@@ -1,0 +1,7 @@
+{
+  "dataset_root": "tmp_runs/run_20260323_142210/dataset_extracted/ml-100k-mini",
+  "num_users": 2,
+  "num_items": 3,
+  "train_rows": 3,
+  "test_rows": 2
+}

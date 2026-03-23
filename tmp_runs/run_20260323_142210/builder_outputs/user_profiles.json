@@ -1,0 +1,52 @@
+{
+  "1": {
+    "user_id": 1,
+    "age": 24,
+    "gender": "M",
+    "occupation": "student",
+    "zip_code": "12345",
+    "liked_movie_ids": [
+      1
+    ],
+    "disliked_movie_ids": [
+      2
+    ],
+    "liked_movie_titles": [
+      "Star Wars (1977)"
+    ],
+    "disliked_movie_titles": [
+      "Emma (1996)"
+    ],
+    "top_positive_genres": {
+      "Action": 1,
+      "Adventure": 1,
+      "Sci-Fi": 1
+    },
+    "num_train_interactions": 2,
+    "num_positive_train": 1,
+    "num_negative_train": 1
+  },
+  "2": {
+    "user_id": 2,
+    "age": 35,
+    "gender": "F",
+    "occupation": "engineer",
+    "zip_code": "54321",
+    "liked_movie_ids": [
+      2
+    ],
+    "disliked_movie_ids": [],
+    "liked_movie_titles": [
+      "Emma (1996)"
+    ],
+    "disliked_movie_titles": [],
+    "top_positive_genres": {
+      "Comedy": 1,
+      "Drama": 1,
+      "Romance": 1
+    },
+    "num_train_interactions": 1,
+    "num_positive_train": 1,
+    "num_negative_train": 0
+  }
+}

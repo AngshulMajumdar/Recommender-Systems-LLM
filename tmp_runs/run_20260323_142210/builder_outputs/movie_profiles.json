@@ -1,0 +1,44 @@
+{
+  "1": {
+    "item_id": 1,
+    "title": "Star Wars (1977)",
+    "release_date": "01-Jan-1977",
+    "imdb_url": "http://example.com/1",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "train_count": 1,
+    "train_positive_count": 1,
+    "train_avg_rating": 5.0
+  },
+  "2": {
+    "item_id": 2,
+    "title": "Emma (1996)",
+    "release_date": "01-Jan-1996",
+    "imdb_url": "http://example.com/2",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "train_count": 2,
+    "train_positive_count": 1,
+    "train_avg_rating": 3.0
+  },
+  "3": {
+    "item_id": 3,
+    "title": "The Empire Strikes Back (1980)",
+    "release_date": "01-Jan-1980",
+    "imdb_url": "http://example.com/3",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "train_count": 0,
+    "train_positive_count": 0,
+    "train_avg_rating": 0.0
+  }
+}

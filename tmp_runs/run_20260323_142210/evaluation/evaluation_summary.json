@@ -1,0 +1,18 @@
+{
+  "num_test_rows": 2,
+  "num_users_in_test": 2,
+  "positive_rate_test": 0.5,
+  "accuracy": 0.0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "roc_auc": 0.0,
+  "ranking_metrics": {
+    "HitRate@5": 0.5,
+    "NDCG@5": 0.5,
+    "HitRate@10": 0.5,
+    "NDCG@10": 0.5,
+    "HitRate@20": 0.5,
+    "NDCG@20": 0.5
+  }
+}

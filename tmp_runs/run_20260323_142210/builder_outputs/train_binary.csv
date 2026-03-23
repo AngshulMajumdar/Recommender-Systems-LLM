@@ -1,0 +1,4 @@
+user_id,item_id,rating,timestamp,label
+1,1,5,874965758,1
+1,2,2,874965759,0
+2,2,4,874965760,1

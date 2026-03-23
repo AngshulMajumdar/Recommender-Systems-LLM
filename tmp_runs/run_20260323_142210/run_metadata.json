@@ -1,0 +1,7 @@
+{
+  "elapsed_seconds": 0.035,
+  "backend": "mock",
+  "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+  "dataset_path": "sample_data/ml-100k-mini.zip",
+  "run_dir": "tmp_runs/run_20260323_142210"
+}
